@@ -1,0 +1,21 @@
+{
+    "name": "chrisguitarguy/symfony-form-one-required-tutorial",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christopher Davis",
+            "email": "cdavis9999@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/event-dispatcher": "^4.4",
+        "symfony/form": "^4.4",
+        "symfony/validator": "^4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Chrisguitarguy\\SymfonyFormOneRequired\\": "src/"
+        }
+    }
+}
